@@ -1,0 +1,51 @@
+.divBody6
+{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 180px;
+    font-family: SST, helvetica, arial, sans-serif;
+}
+.divBody6 .div1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 70px 0px 70px;
+}
+.textDiv1
+{
+    font-size: 28px;
+    font-weight: 400;
+    color: #707070;
+}
+.enlaceMasInfo
+{
+    background-color: #0070cc;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.enlaceMasInfo:hover
+{
+    background-color: #1a5588;
+}
+.divBody6 .div2
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.pDiv2
+{
+    font-size: 14px;
+    color: #707070;
+}

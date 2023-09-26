@@ -1,0 +1,51 @@
+.divBarra3
+{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    font-family: SST, helvetica, arial, sans-serif;
+}
+.divBarra3 .divIzquierdoB3
+{
+    padding: 0px;   
+}
+.divBarra3 .divDerechoB3 .botonMenu
+{
+    padding: 0px 15px 0px 15px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #444444;
+    cursor: pointer;
+}
+.divBarra3 .divDerechoB3 .botonMenu1
+{
+    padding: 0px 15px 0px 15px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #2883d3;
+    cursor: pointer;
+}
+.divBarra3 .divDerechoB3 .botonMenu:hover
+{
+    color: #40a6ff;
+}
+.divInvisible
+{
+    color: transparent;
+    padding-right: 20px;
+    width: 192.5px;
+    height: 41.25px;
+}
+.divBarra3 .divIzquierdoB3 .logoPlayStore
+{
+    padding-left: 25px;
+    width: 185px;
+    height: 30px;
+}

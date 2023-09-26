@@ -1,0 +1,26 @@
+.divBody2
+{
+    padding: 0px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(to right, rgba(246,225,228,1.0), rgba(239,210,223,1.0), rgb(196,202,228,1.0), rgb(163,178,219,1.0));
+}
+.divBody2 .panelImagenLogoFIFA22 .LogoFIFA22
+{
+    margin-left: 120px;
+    width: 202.9px;
+    height: 130px;
+}
+.divBody2 .panelImagenMbappe .mbappe
+{
+    margin-right: 120px;
+    margin-top: -20px;
+    width: 385px;
+    height: 420px;
+}

@@ -1,0 +1,34 @@
+.divBody5_6
+{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: url(../../../Images/fondopsplus.png);
+    height: 400px;
+    justify-content: center;
+}
+.divBody5_6 .pIzquierdo5_6 .imgPsPlus
+{
+    width: 352.5px;
+    height: 150px;
+}
+.divBody5_6 .pIzquierdo5_6 
+{
+    padding-right: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.divBody5_6 .pDerecho5_6
+{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    padding-left: 30px;
+}
+.divBody5_6 .pDerecho5_6 .imgMK
+{
+    width: 467px;
+    height: 345px;
+}

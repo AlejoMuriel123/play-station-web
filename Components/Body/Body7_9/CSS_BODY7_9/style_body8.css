@@ -1,0 +1,83 @@
+.footer
+{
+    padding: 0px;
+    margin-top: 0px;
+    height: 585px;
+    background-color: #00439c;
+    font-family: SST, helvetica, arial, sans-serif;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.footer .inicio
+{
+    display: flex;
+    flex-direction: row;
+    padding-top: 70px;
+    padding-left: 130px;
+}
+.footer .inicio .imgPlay
+{
+    width: 60.45px;
+    height: 46.66px;
+}
+.footer .inicio .localizacion
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 85px;
+}
+.footer .inicio .localizacion .textPais
+{
+    padding-left: 10px;
+}
+.footer .inicio .imgNet
+{
+    width: 30px;
+    height: 30px;
+}
+.footer .mitad
+{
+    display: flex;
+    flex-direction: row;
+    padding-top: 70px;
+    padding-left: 130px;
+}
+.footer .mitad .mitad1
+{
+    display: flex;
+    flex-direction: column;
+}
+.footer .mitad .mitad2
+{
+    display: flex;
+    flex-direction: column;
+}
+.footer .mitad .mitad3
+{
+    display: flex;
+    flex-direction: column;
+}
+.footer .mitad .mitad1, .mitad2, .mitad3
+{
+    padding-right: 130px;
+}
+.enlaceInformacion
+{
+    font-size: 18px;
+    padding-top: 15px;
+    cursor: pointer;
+}
+.enlaceInformacion:hover
+{
+    color: #a6bbce;
+}
+.footer .final
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}

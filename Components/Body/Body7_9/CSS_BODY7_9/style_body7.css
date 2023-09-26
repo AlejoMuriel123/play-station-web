@@ -1,0 +1,33 @@
+.divBody7
+{
+    padding: 0px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: SST, helvetica, arial, sans-serif;
+    background: linear-gradient(rgb(228, 228, 228), rgb(255,255,255,1.0), rgb(255,255,255,1.0), rgb(255,255,255,1.0));
+}
+.textoInicial
+{
+    font-size: 30px;
+    font-weight: 100;
+    color: #707070;
+    margin-top: 25px;
+}
+.divBody7 .contenido
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    padding-bottom: 60px;
+}
+.divBody7 .contenido .enlaceTarjetaInicial
+{
+    padding: 10px 10px 0px 10px;
+    cursor: pointer;
+}

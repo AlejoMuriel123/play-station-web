@@ -1,0 +1,49 @@
+.divBody3
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 150px;
+    background-color: #fff;
+}
+.divBody3 .divTextoIzquierda
+{
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0px 5px 80px;
+}
+.divBody3 .divTextoIzquierda .tituloFIFA22
+{
+    font-size: 28px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+.divBody3 .divTextoIzquierda .textoDerechosFIFA
+{
+    font-size: 14px;
+    font-weight: 400;
+    color: #505050;
+}
+.divBody3 .divBotonDerecha
+{
+    padding: 35px 80px 0px 0px;
+}
+.divBody3 .divBotonDerecha .botonDivBotonDerechaB3
+{
+    background-color: #0170cc;
+    padding: 6px 15px 10px 15px;
+    border-radius: 30px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+}
+.divBody3 .divBotonDerecha .botonDivBotonDerechaB3:hover
+{
+    background-color: #0161af;
+}
+.divBody3 .divBotonDerecha .botonDivBotonDerechaB3:active
+{
+    box-sizing: border-box;
+}

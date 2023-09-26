@@ -1,0 +1,100 @@
+.divBarra2
+{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 36px;
+    background-color: #FFFFFF;
+}
+.divBarra2 .divMenuIzquierdo
+{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: SST, helvetica, arial, sans-serif;;
+}
+.divBarra2 .divMenuIzquierdo .logoPlay
+{
+    padding-left: 25px;
+    padding-right: 15px;
+    width: 26px;
+    height: 20.5px;
+}
+.divBarra2 .divMenuIzquierdo .enlaceV
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 5px 0px 7px;
+    color: #969696;
+    font-size: 11px;
+    font-weight: 550;
+    cursor: pointer;
+}
+.divBarra2 .divMenuIzquierdo .enlaceV:hover
+{
+    color: #40a6ff;
+}
+.divBarra2 .divMenuIzquierdo .enlaceV .icon-circle-down
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 14px;
+    padding: 3px 0px 0px 1px;
+}
+
+.divBarra2 .divMenuDerecho
+{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.divBarra2 .divMenuDerecho
+{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: SST, helvetica, arial, sans-serif;
+}
+.divBarra2 .divMenuDerecho .botonBuscar
+{
+    padding: 4px 25px 4px 20px;
+    font-size: 18px;
+    color: #707070;
+    cursor: pointer;
+}
+.divBarra2 .divMenuDerecho .botonBuscar:active
+{
+    color: #40a6ff;
+}
+.divBarra2 .divMenuDerecho .botonIniciarSesion
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222222;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 3px 8px 3px 8px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.divBarra2 .divMenuDerecho .botonIniciarSesion:hover
+{
+    background-color: #585858;
+}
